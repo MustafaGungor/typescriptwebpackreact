@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+    background:#fff;
+}
+.header {
+    height:70px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+.logo {
+    width: 70px;
+    height : 70px;
+    background-color : black;
+}
+.content {
+    width:960px;
+    background: #F0F0F0;
+    border: 1px solid #CCC;
+    height: 2000px;
+    margin: 20px auto;
+}
